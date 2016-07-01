@@ -1,5 +1,5 @@
 // require the lightManager module
-var lightManager = require("samples/littlebits/lightManager.js");
+var lightManager = require("../lightManager.js");
 
 try {  
   // retrieve the deviceId parameter from the received http request
