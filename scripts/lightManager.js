@@ -1,5 +1,5 @@
-var cloudbitsModule = require("littlebits/cloudbits");
-var mappings = require("littlebits/mappings");
+var cloudbitsModule = require("modules/littlebits/cloudbits");
+var mappings = require("modules/littlebits/mappings");
 
 function setStatus(status, deviceId) {
     
